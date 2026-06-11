@@ -54,8 +54,6 @@ The workflow includes:
    - hotspot overlap and enrichment analyses
    - source-data and analytical-panel export
 
-The scripts are organized by **analysis module**, not by final figure number. Final composite figures may be assembled and annotated in Adobe Illustrator or equivalent vector-graphics software. The scripts generate the analytical tables, source data and core plotting panels that underlie the manuscript figures.
-
 ---
 
 ## Repository contents
