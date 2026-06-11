@@ -25,7 +25,7 @@ Large input datasets and intermediate files are **not** included in this reposit
 
 ## Overview
 
-This code repository supports a genome-resolved metagenomic analysis of antibiotic resistance genes (ARGs) and virulence-associated genes in permafrost microbiomes. The workflow includes:
+The workflow includes:
 
 1. **Metagenome processing and MAG reconstruction**
    - read trimming
