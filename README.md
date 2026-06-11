@@ -1,6 +1,6 @@
 # Genome-resolved analysis of ARGs and virulence-associated genes in permafrost metagenomes
 
-This repository provides a cleaned, generalized and reviewer-readable computational workflow for a genome-resolved metagenomic analysis of antibiotic resistance genes (ARGs) and virulence-associated genes in permafrost metagenomes.
+This repository provides a generalized computational workflow for a genome-resolved metagenomic analysis of antibiotic resistance genes (ARGs) and virulence-associated genes in permafrost metagenomes.
 
 The repository is designed to document the analysis logic, software, parameters and scripts used to generate the main derived matrices, statistical outputs, source-data tables and analytical plotting panels. Raw sequencing reads, large intermediate files and external databases are not included in this repository.
 
