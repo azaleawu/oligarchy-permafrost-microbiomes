@@ -68,7 +68,6 @@ The workflow includes:
 | `demo/` | Small simulated dataset and a lightweight demonstration script. |
 | `data/` | Documentation for external input data. No large datasets are stored here. |
 | `results/` | Documentation for expected output directories. No manuscript-scale results are stored here. |
-| `figures/` | Documentation for analytical panels and source-data outputs. |
 | `docs/` | Additional workflow and checklist documentation. |
 
 ---
