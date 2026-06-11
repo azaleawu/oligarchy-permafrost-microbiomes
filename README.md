@@ -15,7 +15,6 @@ Large input datasets and intermediate files are **not** included in this reposit
 - [Demo](#demo)
 - [Instructions for use](#instructions-for-use)
 - [Expected outputs](#expected-outputs)
-- [Figure and source-data mapping](#figure-and-source-data-mapping)
 - [Data availability](#data-availability)
 - [Code availability](#code-availability)
 - [License](#license)
