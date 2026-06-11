@@ -311,17 +311,6 @@ Large manuscript-scale outputs are not stored in this repository. They are avail
 
 ---
 
-## Figure and source-data mapping
-
-The repository is organized by analysis module. Approximate mapping to manuscript outputs is provided in:
-
-```text
-docs/figure_and_source_data_mapping.md
-```
-
-Final composite figures may have been assembled and annotated in Adobe Illustrator. This repository provides the code used to generate the analytical results, source data and core plotting panels.
-
----
 
 ## Data availability
 
