@@ -1,6 +1,6 @@
 # This repository contains cleaned workflow scripts and downstream analysis code supporting the manuscript
 
-The repository provides generic, manuscript-aligned code for metagenome processing, MAG reconstruction, gene annotation, abundance profiling, matrix construction, phylogenetic analyses, environmental modelling and hotspot analyses.
+The repository provides a pipeline for metagenome processing, MAG reconstruction, gene annotation, abundance profiling, matrix construction, phylogenetic analyses, environmental modelling and hotspot analyses.
 
 Large input datasets and intermediate files are **not** included in this repository. Raw metagenomic reads, derived MAG catalogues, annotation matrices, environmental metadata and Source Data are available from the repositories described in the manuscript.
 
