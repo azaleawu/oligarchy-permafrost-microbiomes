@@ -1,0 +1,18 @@
+# Template paths for downstream R analyses.
+# Edit before running scripts.
+
+unified_MAG_tree: data/unified_MAG_tree.nwk
+MAG_TPM: data/MAG_TPM.tsv
+MAG_taxonomy: data/MAG_taxonomy.tsv
+MAG_ARG_annotations: data/MAG_ARG_annotations.tsv
+MAG_VFDB_annotations: data/MAG_VFDB_annotations.tsv
+environmental_metadata: data/environmental_metadata.tsv
+
+outputs:
+  derived_matrices: results/derived_matrices
+  phylogenetic_diversity: results/phylogenetic_diversity
+  phylogenetic_structure: results/phylogenetic_structure
+  environmental_models: results/environmental_models
+  phylofactor_hotspots: results/phylofactor_hotspots
+  hotspot_overlap_taxonomy: results/hotspot_overlap_taxonomy
+  analysis_panels: figures/analysis_panels

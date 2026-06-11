@@ -1,0 +1,26 @@
+R packages used in downstream analyses:
+- tidyverse
+- data.table
+- readr
+- optparse
+- ape
+- picante
+- mgcv
+- gratia
+- segmented
+- boot
+- vegan
+- ranger
+- xgboost
+- fastshap
+- caret
+- car
+- gamm4
+- spdep
+- ggplot2
+- ComplexHeatmap
+- circlize
+- phylofactor
+
+Record the exact versions from the analysis environment with:
+Rscript -e "sink('environment/R_session_info.txt'); sessionInfo(); sink()"

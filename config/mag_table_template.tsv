@@ -1,0 +1,2 @@
+sample_id	mag_dir	read1	read2
+SAMPLE_001	/path/to/SAMPLE_001/dereplicated_genomes	/path/to/SAMPLE_001_R1.fastq.gz	/path/to/SAMPLE_001_R2.fastq.gz
