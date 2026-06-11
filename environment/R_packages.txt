@@ -1,0 +1,25 @@
+R package dependencies for downstream analyses
+
+ape
+picante
+phytools
+phangorn
+mgcv
+gamm4
+gratia
+segmented
+vegan
+data.table
+dplyr
+tidyr
+tibble
+ggplot2
+ComplexHeatmap
+ranger
+xgboost
+fastshap
+caret
+car
+spdep
+readr
+yaml

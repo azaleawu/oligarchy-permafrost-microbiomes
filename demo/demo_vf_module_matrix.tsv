@@ -1,0 +1,11 @@
+mag_id	adherence	secretion_system	motility	stress_response
+MAG001	1	0	1	0
+MAG002	1	1	0	0
+MAG003	0	1	0	1
+MAG004	1	0	0	1
+MAG005	0	0	0	0
+MAG006	0	0	1	0
+MAG007	1	0	1	1
+MAG008	0	1	0	0
+MAG009	0	0	0	1
+MAG010	0	0	0	0

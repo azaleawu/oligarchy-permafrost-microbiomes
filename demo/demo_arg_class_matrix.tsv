@@ -1,0 +1,11 @@
+mag_id	multidrug	beta_lactam	aminoglycoside	tetracycline
+MAG001	2	1	0	0
+MAG002	3	0	1	0
+MAG003	0	1	2	0
+MAG004	1	1	1	1
+MAG005	0	0	0	1
+MAG006	0	0	0	0
+MAG007	1	0	0	0
+MAG008	0	0	1	0
+MAG009	0	0	0	0
+MAG010	0	1	0	0

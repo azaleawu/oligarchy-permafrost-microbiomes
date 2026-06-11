@@ -1,0 +1,25 @@
+# Copy to analysis_paths.yml and edit paths before running downstream analyses.
+
+input:
+  sample_metadata: data/processed/sample_metadata.tsv
+  environmental_metadata: data/processed/environmental_metadata.tsv
+  mag_metadata: data/processed/mag_metadata.tsv
+  mag_abundance_tpm: data/processed/mag_abundance_tpm.tsv
+  mag_presence: data/processed/sample_by_mag_presence.tsv
+  mag_tree: data/processed/mag_tree.nwk
+  arg_matrix: data/processed/mag_by_arg_class.tsv
+  vf_matrix: data/processed/mag_by_vf_module.tsv
+
+output:
+  tables: results/tables
+  panels: results/panels
+  figures: figures/panels
+
+analysis:
+  random_seed: 2025
+  n_permutations: 999
+  n_bootstrap: 1000
+  cv_folds: 5
+  cv_repeats: 10
+  top_n_features: 10
+  stable_frequency_threshold: 0.80

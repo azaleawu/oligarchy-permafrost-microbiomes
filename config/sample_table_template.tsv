@@ -1,0 +1,3 @@
+sample_id	read1	read2
+SAMPLE_001	data/raw_reads/SAMPLE_001_R1.fastq.gz	data/raw_reads/SAMPLE_001_R2.fastq.gz
+SAMPLE_002	data/raw_reads/SAMPLE_002_R1.fastq.gz	data/raw_reads/SAMPLE_002_R2.fastq.gz
